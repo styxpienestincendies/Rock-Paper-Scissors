@@ -1,6 +1,5 @@
 import random
 
-
 def get_choices():
     player_choice = input(" Enter a choice between rock, paper, and scissors: ")
 
